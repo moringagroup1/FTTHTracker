@@ -4,7 +4,7 @@
 Author of this repository consists of members of Group1 Class DevOps at Moringa School. Member include;
 <ul>
 <li>Charles Muli - Product Owner</li>
-<li>Jimmy Kiarie (back end)-Developer</li>
+<li>Jimmy N. Kiarie (back end)-Developer</li>
 <li>Mercy Komen (front end)-Developer</li>
 <li>Ferdinand Mulimi (back end)-Developer</li>
 <li>Zipporah Marasi -scrum master</li>
