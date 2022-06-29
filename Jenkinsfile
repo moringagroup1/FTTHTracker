@@ -9,6 +9,7 @@ pipeline{
                 git 'https://github.com/moringagroup1/FTTHTracker.git'
             }
         }
+    
         // stage('Install Dependencies / Build'){
         //     steps{
         //         sh 'npm install'
@@ -19,6 +20,7 @@ pipeline{
         //         withCredentials([usernameColonPassword(credentialsId: 'delani-nodeexpress', variable: 'HEROKU_CREDENTIALS' )]){
         //      sh 'git push https://${HEROKU_CREDENTIALS}@git.heroku.com/delani-nodeexpress.git master'
         //     }
+            //    }
         //     }
-        // }
     }
+}
